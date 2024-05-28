@@ -4,7 +4,7 @@
 
 ### Project Overview
 
-This project focuses on analyzing social media data for Pensilia, a leading beauty clinic in Vietnam, to enhance their social media marketing strategies. The analysis aims to understand the performance of their posts, audience engagement, and overall effectiveness of their communication strategies across various social media platforms including Facebook, Instagram, TikTok, and YouTube.P
+This project focuses on analyzing social media data for Pensilia, a leading beauty clinic in Vietnam, to enhance their social media marketing strategies. The analysis aims to understand the performance of their posts, audience engagement, and overall effectiveness of their communication strategies across various social media platforms including Facebook, Instagram, TikTok, and YouTube.
 
 ### Project Structure
 ![Overall Process](Images/Overall_process.png)
