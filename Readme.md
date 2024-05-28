@@ -1,5 +1,3 @@
-# Readme.md
-
 ## Pensilia Social Media Data Analysis Project
 
 ### Project Overview
